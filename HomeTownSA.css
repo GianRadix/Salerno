@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Chakra Petch', sans-serif;  
+}
+.header{
+    padding-top: 10px;
+    height: 600px;
+    text-align: center;
+    background-image: url("https://www.eurospin-viaggi.it/media/immagini/36537_n_Salerno_1.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#title33{
+    border: 3px solid #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+#peso{
+    margin-top: -5px;
+    font-size: 20px;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+}
+.title{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    background: rgb(64, 64, 99);
+}
+.middle{
+    background: rgb(64, 64, 99);
+    display: flex;
+    justify-content: space-around;
+}
+#cilentana-img{
+    width: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+.title-img{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background: rgb(64, 64, 99);
+}
+.par{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background: rgb(64, 64, 99);
+    padding-bottom: 20px;
+}
+p{
+    font-size: 20px;
+}
